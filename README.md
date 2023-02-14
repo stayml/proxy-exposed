@@ -31,7 +31,7 @@ _Discover your ip address [here](https://ipv4.icanhazip.com/)_.
 
     https://proxy.exposed/?ip=your.real.ip.address
 
-Your request will be searched for any exposure of your true IP address and any match against a list of proxy-specific headers.
+Your request will be searched for any exposure of your true IP address and its headers compared for any match against a list of proxy-specific headers.
 
 The results of the check and a classification of the requesting proxy will be returned.
 
