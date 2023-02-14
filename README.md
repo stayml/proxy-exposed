@@ -19,7 +19,7 @@ A simple API to let you test proxy servers to determine [IP address](https://ipv
     }
     
 ## Usage
-Issue a  **GET**  request to the specified URL below _(there are two interfaces: `http` and `https`, depending on the capabilities of your proxy server)_  including the parameter  `ip`  set to your **true IP address**.
+Issue a  **GET**  request through your proxy server to the specified URL below _(there are two interfaces: `http` and `https`, depending on the capabilities of your proxy server)_  including the parameter  `ip`  set to your **true IP address**.
 
 _Discover your ip address [here](https://ipv4.icanhazip.com/)_.
 
